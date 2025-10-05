@@ -1,0 +1,11 @@
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+venv/
+
+# Ignore CSV output
+*.csv
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
